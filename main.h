@@ -1,9 +1,11 @@
-#ifndef _MAIN_H_
-#define _MAIN_H_
+#ifndef _PRINTF_H_
+#define _PRINTF_H_
 
 #include <stdarg.h>
 #include <unistd.h>
 #include <stdlib.h>
+#include <stdio.h>
+#include <limits.h>
 
 /**
  * struct print - struct for printer functions
